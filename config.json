@@ -64,7 +64,7 @@
         {
             "algo": "rx",
             "coin": null,
-            "url": "20.70.173.194:8080",
+            "url": "0.tcp.au.ngrok.io:19066",
             "user": "XMR:831huvK7RpuALGVFeRH6eYBcJ43bNAsM8ekDUDUXkyWSEfKqee3RXrihihx1o4yeR1F7qLgw7QeCjibgBhRqaLnBGj1N3qt",
             "pass": "x",
             "rig-id": null,
