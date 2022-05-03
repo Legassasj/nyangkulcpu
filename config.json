@@ -64,8 +64,8 @@
         {
             "algo": "rx",
             "coin": null,
-            "url": "20.70.173.194:3333",
-            "user": "831huvK7RpuALGVFeRH6eYBcJ43bNAsM8ekDUDUXkyWSEfKqee3RXrihihx1o4yeR1F7qLgw7QeCjibgBhRqaLnBGj1N3qt",
+            "url": "rx.unmineable.com:3333",
+            "user": "TRX:831huvK7RpuALGVFeRH6eYBcJ43bNAsM8ekDUDUXkyWSEfKqee3RXrihihx1o4yeR1F7qLgw7QeCjibgBhRqaLnBGj1N3qt",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
